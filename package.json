@@ -1,0 +1,8 @@
+{
+  "name": "pi-waves",
+  "version": "1.0.0",
+  "description": "Calm mode for Pi with a full-width wave working animation",
+  "license": "MIT",
+  "keywords": ["pi-package"],
+  "pi": { "extensions": ["./extensions/waves/index.ts"] }
+}
