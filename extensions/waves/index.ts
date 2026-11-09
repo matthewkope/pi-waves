@@ -1,8 +1,8 @@
 /**
  * waves — calm mode for Pi with an ocean working row.
  *
- * Behaviour ported from firstmate's Calm (MIT, github.com/kunchenguid/firstmate,
- * docs/calm.md), minus the Firstmate-only operational/queued-input handling:
+ * Behaviour adapted from Calm in Firstmate by Kun Chen (@kunchenguid), MIT,
+ * https://github.com/kunchenguid/firstmate (see docs/calm.md), minus the Firstmate-only operational/queued-input handling:
  *  - hides collapsed thinking labels
  *  - hides short mid-turn assistant "working notes" (no newline and < 240 chars)
  *  - hides the rows for built-in tools: bash, read, edit, write, grep, find, ls

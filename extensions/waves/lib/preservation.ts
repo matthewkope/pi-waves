@@ -1,3 +1,5 @@
+// Adapted from Firstmate's Calm by Kun Chen (@kunchenguid), MIT License.
+// Source: https://github.com/kunchenguid/firstmate
 // Shared Calm policy for deciding whether mid-turn assistant text is substantive.
 // Claude Code imports this file directly, while the Pi extension reaches the same
 // implementation through its tracked symlink so both harnesses keep one threshold and rule.
